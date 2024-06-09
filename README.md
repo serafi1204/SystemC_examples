@@ -12,14 +12,13 @@
 
 
 # Tips
-## Build systemC
+### Build systemC
 1. Open systemc-x.x.x\msvc16\SystemC\SystemC.sln
 2. project > Congifuration Properies > C/C++ > Commend Line > additional Option > add "/std:c++17"
 3. Build > Build Solution
 
-   
-## Project configuration for systemC
-{systemc} : root of systemc libray (ex. C:\visual_studio\systemc)
+### Project configuration for systemC
+> {systemc} : root of systemc libray (ex. C:\visual_studio\systemc)
 
     project > Congifuration Properies > 
         VC++ Directories > 
@@ -30,7 +29,7 @@
 
 # Referance
 - Examples
-    - clk generator: https://leehc257.tistory.com/72
-    - adder: https://funnyfab.tistory.com/2
-- Project option for systemC: https://www.youtube.com/watch?v=0VxvIzVdoaI&t=16s
-- Build systemC: https://www.youtube.com/watch?v=0VxvIzVdoaI&t=16s
+    - [clk generator](https://leehc257.tistory.com/72)
+    - [adder](https://funnyfab.tistory.com/2)
+- [Project option for systemC](https://www.youtube.com/watch?v=0VxvIzVdoaI&t=16s)
+- [Build systemC](https://www.youtube.com/watch?v=0VxvIzVdoaI&t=16s)
