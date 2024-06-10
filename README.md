@@ -2,6 +2,7 @@
 
 ### List
 - clk generator : a clk with auto GTKwave.
+- Adder : adder block with clk, nrst, template(parameter) ${\rm{\color{#DD6565}!\ NOTE.\ sc_int overflow\ mode?}}$
 
 # Examples
 ### 1. clk generator
@@ -9,6 +10,10 @@
     #define CLK_TIME_UNIT 2 // 2 ns
     #define	CLK_DUTY_CYCLE 0.3 // 30%
 ![image](https://github.com/serafi1204/SystemC_examples/assets/122208990/61293010-8d1c-44dd-8ad6-cb50cd525ebc)
+
+### 2. Adder
+${\rm{\color{#DD6565}!\ NOTE.\ sc_int overflow\ mode?}}$
+![image](https://github.com/serafi1204/SystemC_examples/assets/122208990/6bc1b67d-05e1-4b8d-9ded-726d988b8aee)
 
 
 # Tips
@@ -30,6 +35,6 @@
 # Referance
 - Examples
     - [clk generator](https://leehc257.tistory.com/72)
-    - [adder](https://funnyfab.tistory.com/2)
+    - adder [0](https://funnyfab.tistory.com/2) [1](https://gtrfx.github.io/2020/02/16/systemc-basics.html)
 - [Project option for systemC](https://www.youtube.com/watch?v=0VxvIzVdoaI&t=16s)
 - [Build systemC](https://www.youtube.com/watch?v=0VxvIzVdoaI&t=16s)
