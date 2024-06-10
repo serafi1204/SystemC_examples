@@ -35,6 +35,6 @@ ${\rm{\color{#DD6565}!\ NOTE.\ sc_int overflow\ mode?}}$
 # Referance
 - Examples
     - [clk generator](https://leehc257.tistory.com/72)
-    - adder [0](https://funnyfab.tistory.com/2) [1](https://gtrfx.github.io/2020/02/16/systemc-basics.html)
+    - adder [0](https://funnyfab.tistory.com/2) [1](https://gtrfx.github.io/2020/02/16/systemc-basics.html) [2](https://leehc257.tistory.com/83)
 - [Project option for systemC](https://www.youtube.com/watch?v=0VxvIzVdoaI&t=16s)
 - [Build systemC](https://www.youtube.com/watch?v=0VxvIzVdoaI&t=16s)
