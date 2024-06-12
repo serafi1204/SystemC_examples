@@ -2,18 +2,20 @@
 
 ### List
 - clk generator : a clk with auto GTKwave.
-- Adder : adder block with clk, nrst, template(parameter) ${\rm{\color{#DD6565}!\ NOTE.\ sc_int overflow\ mode?}}$
+- Adder : adder block with clk, nrst, template(parameter)
+    - r1 : using header(hpp)
 
 # Examples
 ### 1. clk generator
     #define CLK_PERIOD 1 // 1ns
     #define CLK_TIME_UNIT 2 // 2 ns
     #define	CLK_DUTY_CYCLE 0.3 // 30%
-![image](https://github.com/serafi1204/SystemC_examples/assets/122208990/61293010-8d1c-44dd-8ad6-cb50cd525ebc)
+<p align="center"><img src = "https://github.com/serafi1204/SystemC_examples/assets/122208990/61293010-8d1c-44dd-8ad6-cb50cd525ebc" width=60%></img></p>
 
 ### 2. Adder
-${\rm{\color{#DD6565}!\ NOTE.\ sc_int overflow\ mode?}}$
-![image](https://github.com/serafi1204/SystemC_examples/assets/122208990/6bc1b67d-05e1-4b8d-9ded-726d988b8aee)
+<p align="center"><img src = "https://github.com/serafi1204/SystemC_examples/assets/122208990/6bc1b67d-05e1-4b8d-9ded-726d988b8aee" width=60%></img></p>
+r1 (using header)
+<p align="center"><img src = "https://github.com/serafi1204/SystemC_examples/assets/122208990/bd55421d-42fe-4f69-a7f0-de79b6387790" width=60%></img></p>
 
 
 # Tips
