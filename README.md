@@ -4,6 +4,7 @@
 - clk generator : a clk with auto GTKwave.
 - Adder : adder block with clk, nrst, template(parameter)
     - r1 : using header(hpp)
+- Digital clock : Digital clock with leap year and alarm
 
 # Examples
 ### 1. clk generator
