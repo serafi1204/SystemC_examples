@@ -17,6 +17,10 @@
 r1 (using header)
 <p align="center"><img src = "https://github.com/serafi1204/SystemC_examples/assets/122208990/bd55421d-42fe-4f69-a7f0-de79b6387790" width=60%></img></p>
 
+### 3. Digital clock
+<p align="center"><img src = "https://github.com/serafi1204/SystemC_examples/assets/122208990/daa7ce31-0aee-4019-a6f3-0f1741829407" width=60%></img></p>
+
+
 
 # Tips
 ### Build systemC
